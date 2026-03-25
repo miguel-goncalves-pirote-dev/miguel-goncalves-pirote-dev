@@ -19,5 +19,6 @@ Tenho interesse em programação e estou sempre buscando evoluir meus conhecimen
 
 ## Onde me encontrar
 - GitHub: [miguel-goncalves-pirote-dev](https://github.com/miguel-goncalves-pirote-dev)
+- LinkedIn: [miguel-goncalves-pirote](https://www.linkedin.com/in/miguel-goncalves-pirote/)
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
