@@ -6,11 +6,13 @@ Tenho interesse em programação e estou sempre buscando evoluir meus conhecimen
 ## O que já aprendi?
 - **Python**: conheço o básico e recentemente desenvolvi meu primeiro projeto completo (**Jogo da Velha com Tkinter**), que foi meu maior avanço até agora.
 - **C++**: também tenho noções básicas e já pratiquei lógica de programação com essa linguagem.
+- **HTML+CSS**: criar o esqueleto de uma página, começando a migrar para **CSS**.
 
 ## Atualmente estou aprendendo
 - Desenvolvimento de interfaces gráficas com **Tkinter**.
 - Boas práticas de organização de código.
 - Como compartilhar meus projetos no GitHub e evoluí-los com novas funcionalidades.
+- Desenvolvimento Front-End com HTML e CSS, e logo depois Javascript.
 
 ## Objetivos
 - Melhorar meus projetos, deixando-os mais bonitos e com mais opções.
@@ -21,4 +23,4 @@ Tenho interesse em programação e estou sempre buscando evoluir meus conhecimen
 - GitHub: [miguel-goncalves-pirote-dev](https://github.com/miguel-goncalves-pirote-dev)
 - LinkedIn: [miguel-goncalves-pirote](https://www.linkedin.com/in/miguel-goncalves-pirote/)
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
+**Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.**
